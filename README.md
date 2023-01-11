@@ -2,4 +2,4 @@
 
 Hello and welcome to my page!
 
-[About me](/about)
+[About](/about)
