@@ -1,5 +1,5 @@
 # mariannetottie.github.io
 
-Hello and welcome to my page!
+Hello and welcome to my site!
 
 [About](/about)
