@@ -7,3 +7,38 @@
 
   gtag('config', 'G-M74GC41EC4');
 </script>
+
+<script>
+function sendReadEvent(title, numberOfCharacters){
+    gtag('event', 'read_article', {
+        "author": "Marianne T", 
+        "title": title,
+        "number_of_characters": numberOfCharacters,
+    });
+}
+
+document.addEventListener("DOMContentLoaded", ()  => {
+
+    const readArticleButton = document.getElementById("read-article-1");
+
+    if (readArticle1Button) {
+        // Skickar event vid klick på artikel 1
+        document.getElementById("read-article-1").addEventListener("click", () => {
+            sendReadEvent("Article 1", 50)
+        });
+
+        // Skickar event vid klick på artikel 2
+        document.getElementById("read-article-2").addEventListener("click", () => {
+            sendReadEvent("Article 2", 100)
+        });
+
+        // Skickar event vid klick på artikel 3
+        document.getElementById("read-article-3").addEventListener("click", () => {
+            sendReadEvent("Article 3", 150)
+        });
+
+    }
+
+
+});
+</script>
