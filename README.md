@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Uppgift - Digital Analys System och Teknik </title>
+<title>Uppgift - Digital Analys System och Teknik</title>
 </head>
 <body>
 
