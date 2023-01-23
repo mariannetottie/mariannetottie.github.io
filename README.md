@@ -1,5 +1,12 @@
-# mariannetottie.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title> Uppgift - Digital Analys System och Teknik </title>
+</head>
+<body>
 
-Hello and welcome to my site!
+<h1>Uppgift - Digital Analys System och Teknik</h1>
+<p>My first paragraph.</p>
 
-[About](/about)
+</body>
+</html>
