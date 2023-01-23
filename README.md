@@ -16,9 +16,13 @@
   <button type="button">Läst artikel 2!</button>
   <br>
   <br>
-  <h2>Lorem ipsum 3</h2>
-  <p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus     in, viverra quis, feugiat a, tellus.</p>
-  <button type="button">Läst artikel 3!</button>
+<script> gtag('event','read_article', {
+    "author":"Marianne T",
+    "title":"Lorem ipsum 3",
+    "body":"Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.",
+    "number_of_characters":198,
+});
+  </script>
   <br>
   <br>
 </body>
