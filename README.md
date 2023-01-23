@@ -13,11 +13,11 @@
   
   <h2>Lorem ipsum 2</h2>
   <p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
-  <button type="button">Click artice 2!</button>
+  <button type="button">Click article 2!</button>
   
    <h2>Lorem ipsum 3</h2>
   <p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
-  <button type="button">Click artice 3!</button>
+  <button type="button">Click article 3!</button>
 
 </body>
 </html>
