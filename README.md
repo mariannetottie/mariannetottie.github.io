@@ -13,7 +13,7 @@
   <br>
   <h2>Lorem ipsum 2</h2>
   <p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
-  <button type="button">Läst artikel 2!</button>
+  <button type="button">Läst artikel 2</button>
   <br>
   <br>
 <script> gtag('event','read_article', {
