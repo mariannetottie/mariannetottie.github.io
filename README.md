@@ -7,3 +7,5 @@ Hello and welcome to my site!
 [Articles](/articles)
 
 [Thank you](/thank-you)
+
+[Purchase complete](/purchase-complete)
