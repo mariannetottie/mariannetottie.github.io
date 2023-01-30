@@ -9,3 +9,5 @@ Hello and welcome to my site!
 [Thank you](/thank-you)
 
 [Purchase complete](/purchase-complete)
+
+[Subscribed](/subscribed)
